@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matteodalgrande&theme=gotham)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteodalgrande&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteodalgrande&theme=gotham&layout=compact)
 
 ![visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=matteodalgrande&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
